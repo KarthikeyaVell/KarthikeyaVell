@@ -4,12 +4,10 @@
 
 I am an undergraduate student at The University of Texas at Dallas majoring in Cybersecurity and Risk Management, with a strong interest in Network Security and Network Architecture.
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in Cyber Security has led me to develop a passion for Networks and Security, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, or a Network Security Engineer.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
