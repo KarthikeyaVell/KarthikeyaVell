@@ -2,7 +2,7 @@
 # Hello, I'm Karthikeya Vellanki
 <a href="https://www.linkedin.com/in/karthikeya-vellanki/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an undergraduate student at The University of Texas at Dallas majoring in Cybersecurity and Risk Management, with a strong interest in Network Security and Network Architecture.
+I am an undergraduate student at The University of Texas at Dallas majoring in Computer Information Systems and Technology and a minor in Innovation and Entrepreneurship, with a strong interest in Network Security and Network Architecture.
 ## Objective
 
 My journey in Cyber Security has led me to develop a passion for Networks and Security, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, or a Network Security Engineer.
