@@ -11,7 +11,7 @@ My journey in Cyber Security has led me to develop a passion for Networks and Se
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Secure Network Design                         | <a href="https://docs.google.com/document/d/1gd0giCLUMBnpF8WACXtTsgxP1_vNjAhsT149KLKzg4A/edit?tab=t.0"><img src="https://img.shields.io/badge/-Detection%20Lab-0072b1?&style=for-the-badge&logoColor=white" /></a>|
+| Secure Network Design                         | <<a href="https://docs.google.com/document/d/1gd0giCLUMBnpF8WACXtTsgxP1_vNjAhsT149KLKzg4A/edit?tab=t.0"><img src="https://img.shields.io/badge/-Secure%20Network%20Design-0072b1?&style=for-the-badge&logoColor=white" /></a>|
 | pfSense Implementation and Administration     | <a href="[https://google.com](https://docs.google.com/document/d/1gd0giCLUMBnpF8WACXtTsgxP1_vNjAhsT149KLKzg4A/edit?tab=t.py36bixxqieu)">Detection Lab</a>|
 | Penetration Testing and Incident Response     | <a href="[https://google.com](https://docs.google.com/document/d/1gd0giCLUMBnpF8WACXtTsgxP1_vNjAhsT149KLKzg4A/edit?tab=t.9sxkb9stbj9u)">Detection Lab</a>|
 | Firewall Management and Configuration         | SOC Automation Lab|
