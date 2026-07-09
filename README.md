@@ -1,6 +1,6 @@
 
 # Hello, I'm Karthikeya Vellanki
-<a href="www.linkedin.com/in/karthikeya-vellanki"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/karthikeya-vellanki/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an undergraduate student at The University of Texas at Dallas majoring in Cybersecurity and Risk Management, with a strong interest in Network Security and Network Architecture.
 ## Objective
